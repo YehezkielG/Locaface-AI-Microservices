@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+
+# Firebase App Check / service account (do not commit)
+lib/firebase-service-account.json
+*.pem
+
+captures
